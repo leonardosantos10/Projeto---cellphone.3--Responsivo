@@ -5,6 +5,10 @@
 
   - HTML 
   - CSS
-
+  <br/>
+- imagem Site:
 <img src="https://github.com/leonardosantos10/Projeto-easy-shopping-/blob/main/assets/Desktop.png?raw=true"/>
+<br/> Imagem Mobile (celular):
+<img src="https://github.com/leonardosantos10/Projeto-easy-shopping-/blob/main/assets/mobile%20atual.png?raw=true"/>
+
 
