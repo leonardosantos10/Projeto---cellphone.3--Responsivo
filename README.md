@@ -6,10 +6,10 @@
 
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html-logo"/>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/> 
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo"/>
+<iframe src="</p>></iframe>
 <br/>
-  <a href="</a>
-<br/>
+
 - imagem Site:
 <img src="https://github.com/leonardosantos10/Projeto-easy-shopping-/blob/main/assets/Desktop.png?raw=true"/>
 <br/> Imagem Mobile (celular):
