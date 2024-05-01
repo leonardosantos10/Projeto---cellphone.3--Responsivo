@@ -10,8 +10,10 @@
 
 <br/>
 
-- imagem Site:
-<br/> Imagem Mobile (celular):
+- imagem do Site:
+  <img src="https://github.com/leonardosantos10/Projeto-Easy-Responsivo/blob/main/assets/Desktop.png?raw=true"/>
+- Imagem Mobile (celular):
+  <br/>
 <img src="https://github.com/leonardosantos10/Projeto-easy-shopping-/blob/main/assets/mobile%20atual.png?raw=true"/>
 
 </p>
